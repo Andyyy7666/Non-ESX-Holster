@@ -8,5 +8,7 @@ Modified by: Andyyy
 - use /rack to put your weapon in your vehicle.
 
 Original release: https://forum.cfx.re/t/release-esx-holster/737784?u=andyyyyy
-Support: https://discord.green/andys-development
+
 I reccomend using this with: https://forum.cfx.re/t/release-dynamic-holsters-eup-support/731182?u=andyyyyy
+
+Support: https://discord.green/andys-development
