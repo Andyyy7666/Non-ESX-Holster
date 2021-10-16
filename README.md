@@ -11,6 +11,8 @@ Original release: https://forum.cfx.re/t/release-esx-holster/737784?u=andyyyyy
 
 I reccomend using this with: https://forum.cfx.re/t/release-dynamic-holsters-eup-support/731182?u=andyyyyy
 
-Support: https://discord.green/andys-development
+# Need Support?
+
+[![Need Support?](https://i.imgur.com/fqKYWeV.png)](https://discord.gg/Z9Mxu72zZ6)
 
 I plan on adding sound effects for this soon.
